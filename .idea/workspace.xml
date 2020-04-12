@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Yzx5eKqJzRmKFe1qMz12SQjLRt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -97,9 +103,10 @@
     </state>
     <state width="1238" height="97" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1586558989688" />
     <state width="1238" height="108" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1586311467419" />
-    <state x="320" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1586363485782">
-      <screen x="0" y="23" width="1280" height="726" />
+    <state x="320" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1586705409600">
+      <screen x="0" y="23" width="1280" height="725" />
     </state>
+    <state x="320" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.725@0.23.1280.725" timestamp="1586705409600" />
     <state x="320" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1586363485782" />
   </component>
 </project>
